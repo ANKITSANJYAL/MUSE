@@ -1,4 +1,4 @@
-# Project Muse
+# Project Muse (Obviously Vibe Coded)
 
 **Project Muse** is a real-time multimodal creative agent designed to help creators storyboard and visualize ideas instantly. It leverages the power of Gemini 2.0 Flash for low-latency voice/vision interactions and Imagen 3 for high-quality on-demand visual generation.
 
